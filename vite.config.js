@@ -15,12 +15,12 @@ export default defineConfig({
       theme_color:"#1b2e23",
       icons: [
         {
-          src: './public/imagen-fondo 192.png',
+          src: 'imagen-fondo192.png',
           sizes: '192x192',
           type: 'image/png'
         },
         {
-          src: './public/imagen-fondo 512.png',
+          src: 'imagen-fondo512.png',
           sizes: '512x512',
           type: 'image/png'
         }
