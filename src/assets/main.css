@@ -1,0 +1,37 @@
+@import "./base.css";
+/* @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;800&display=swap'); */
+#app {
+  max-width: 1280px;
+  height: 100vh;
+  font-family: cursive;
+  font-weight: normal;
+  display: flex;
+  justify-content: center;
+  margin:auto;
+  background-color: #1b2e23;
+}
+ .buton{
+  background-color: #ffcd63;
+  color: #1b2e23;
+  border-radius: 10px;
+  padding: 5px 20px;
+  font-size: 15px;
+  font-weight: bold;
+  margin:0 5px
+}
+.buton:hover{ 
+  background-color:#ff6f44 ;
+}
+a,
+.green {
+  text-decoration: none;
+  color: hsla(160, 100%, 37%, 1);
+  transition: 0.4s;
+}
+
+@media (hover: hover) {
+  a:hover {
+    background-color: hsla(160, 100%, 37%, 0.2);
+  }
+}
+
