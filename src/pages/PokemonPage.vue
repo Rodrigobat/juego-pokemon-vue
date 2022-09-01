@@ -129,6 +129,7 @@ export default {
   background-color:#00625c;
   width:100% ;
   max-width: 720px;
+  height: 100vh;
 }
 .cont_botones{
   padding: 10px 0;
