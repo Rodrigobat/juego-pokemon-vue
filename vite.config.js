@@ -15,7 +15,7 @@ export default defineConfig({
       theme_color:"#1b2e23",
       icons: [
         {
-          src: './public/imagen-fondo 192.jpg',
+          src: './public/imagen-fondo 192.png',
           sizes: '192x192',
           type: 'image/png'
         },
